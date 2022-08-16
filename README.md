@@ -20,7 +20,7 @@ I'm a Software Developer and a full time student!
 
 ## 📫 Connect with me
 
-<a href="https://www.linkedin.com/mushr">
+<a href="https://www.linkedin.com/in/mushr">
   <img align="left" alt="Mush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
