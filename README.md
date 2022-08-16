@@ -1,6 +1,6 @@
 # Hi, I'm Mush!
 
-I'm a Software Developer and a full time student!
+I'm a software developer and a full time student
 
 ## 👋 About me
 
