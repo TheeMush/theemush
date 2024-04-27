@@ -4,8 +4,8 @@ I'm a software developer and a full time student
 
 ## 👋 About me
 
-- 22 years old
-- Getting my B.S @ Florida International Univesity
+- 23 years old
+- Getting my B.S @ University of Central Florida
 
 ## 💻 Languages
 
